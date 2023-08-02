@@ -1,0 +1,1 @@
+{'social': ['instagram', 'snapchat', 'com.tumblr', 'com.zhiliaoapp.musically', 'facebook', 'twitter'], 'finance': ['com.bpi.ng.mobilebanking', 'com.chase.sig.android', 'com.bca', 'mm.com.wavemoney.wavepay', 'net.one97.paytm'], 'communication': ['yahoo-mail', 'gmail', 'com.enflick.android.TextNow', 'com.skype.raider', 'facebook-messager', 'org.telegram.messenger']}
